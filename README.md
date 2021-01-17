@@ -12,6 +12,18 @@
 
 *   Aprender WP-CLI
 
+**Fecha**: 17/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+*   Primeros pasos con WP-CLI, comandos básicos.
+
+**Próximos hitos**
+
+*   Seguir con WP-CLI, automatización para migraciones.
+
 ## **Badges**
 
 Malandriners Premium.
