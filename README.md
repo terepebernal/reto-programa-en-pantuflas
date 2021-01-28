@@ -1,17 +1,18 @@
 ## Estoy participando en el reto #ProgramaEnPantuflas.
 
-**Fecha**: 04/01/2021
+**Fecha**: 28/01/2021
 
 **Humor**: 😀
 
 **Hitos conseguidos**:
 
-*   Hacer tiendas online con WordPress/WooCommerce
+* Hacer tareas de DAW y entregarlas a tiempo (con una sola mano y sin estar en casa).
 
 **Próximos hitos**
 
-*   Aprender WP-CLI
-
+* Terminar página para ofrecer servicios.
+* Mantengo automatización para migraciones con WP-CLI, no he tenido tiempo.
+ 
 **Fecha**: 17/01/2021
 
 **Humor**: 😀
@@ -24,13 +25,14 @@
 
 *   Seguir con WP-CLI, automatización para migraciones.
 
-## **Badges**
+**Fecha**: 04/01/2021
 
-Malandriners Premium.
+**Humor**: 😀
 
-\[WIP\]
+**Hitos conseguidos**:
 
-## **Diarios públicos**
+*   Hacer tiendas online con WordPress/WooCommerce
 
-*   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
-*   [Delineas](https://github.com/delineas/programa-en-pantuflas)
+**Próximos hitos**
+
+*   Aprender WP-CLI
